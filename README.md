@@ -36,8 +36,8 @@ Portfolio template for cDahms
       <h2>Projects</h2>
       <h3>Timeline?</h3>
   <ul><li>2020</li><li>2021</li><li>2022</li><li>2023</li></ul>
-      <div class="proj-grid"><a class="project-title"><a>Sharks</a></div>
-      <div class="proj-grid"><a class="project-title"><a>Sticklebacks</a></div>
+      <div class="proj-grid"><a class="project-title">Sharks</a></div>
+      <div class="proj-grid"><a class="project-title">Sticklebacks</a></div>
     </section>
 <!-- project SECTION -->
 
