@@ -73,9 +73,8 @@ figcaption {
     display: block;
 }
 
-ul, li{ 
-display: list-item;
-list-style: none;
+li{ 
+list-style-type: none;
   }
 
 /* FOR FOOTER
