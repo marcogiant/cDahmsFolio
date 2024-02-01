@@ -42,7 +42,7 @@ Portfolio template for cDahms
 <!-- project SECTION -->
 
 <!-- Contacts SECTION -->
-<section id="profile-link" class="contact-section" target="_blank">
+<section id="contacts-section" class="contact-section" target="_blank">
     <h2>Social Media & email</h2>
     <p>contacts go here</p>
 </section>
